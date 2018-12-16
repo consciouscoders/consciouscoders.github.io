@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            ConsciousCoders Blog
+title:            Conscious Coders Blog
 tagline:          'The Conscious Coders Blog'
 description:      'On the impact of AI and digital technologies on society.'
 url:              http://consciouscoders.io
