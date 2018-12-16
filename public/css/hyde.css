@@ -248,3 +248,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* ConsciousCoders */
+.theme-base-0g .sidebar {
+  background-color: #2D3D57;  
+}
+.theme-base-0f .content a,
+.theme-base-0f .related-posts li a:hover {
+  color: #2D3D57;
+}
