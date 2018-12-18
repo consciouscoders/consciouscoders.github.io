@@ -15,6 +15,10 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.content }}
+    {% if site.disqus.shortname %}
+      {% include disqus_comments.html %}
+    {% endif %}
+
   </div>
   {% endfor %}
 </div>
