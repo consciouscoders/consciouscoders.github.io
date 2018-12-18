@@ -8,6 +8,6 @@ We, the [ConsciousCoders](http://consciouscoders.io/) are an independent and not
 
 This blog is a platform for our workgroups. It is not meant to be a one way street, our articles are invitations to get in contact and discuss.
 
-We will start in early 2019 with a series of posts that introduce to the current state of the field. What are important terms and how can they be distinguished? How is the technology applied and what ethical issues are derived from that? What is the current legal perspective? Having given an overview over the field, we develop an perspective how those problems could be attacked. In a short playdoer we assess how regulations could help. We are especially interested in existing norms and how they can be implemented. As an example the problem of Fairness in ML is introduced.
+We will start in early 2019 with a series of posts that introduce to the current state of the field. What are important terms and how can they be distinguished? How is the technology applied and what ethical issues are derived from that? What is the current legal perspective? What norms are exist? Having given an overview of the field, we develop an perspective how ethical issues could be attacked. In a short playdoer we assess the role of regulations. An example for a norm that is tried to be tackled on a technical level we give fairness in machine learning.
 
-In our newsletter, we will notify you when we publish new articles. Stay tuned and get signed up on [consciouscoders.io](http://consciouscoders.io/).
+We hope that you are curious about our findings. To make sure that you stay tuned it is a great option to get signed up to our newsletter. Get registered on [consciouscoders.io](http://consciouscoders.io/)!
